@@ -107,8 +107,8 @@ export { searchncs, featuredncs, ncsDownload } from "./search/ncs.js";
 export { isTooLarge } from "./tools/bot-utils.js";
 export { checknsfw } from "./tools/bot-nsfw.js";
 export { removebg } from "./tools/removebg.js"; //new
-export { blurface } from "./tools/blurface.js"; // new
-export { compress } from "./tools/compress.js"; // new
+//export { blurface } from "./tools/blurface.js"; // new
+//export { compress } from "./tools/compress.js"; // new
 export { upscale } from "./tools/upscale.js"; // new
 export { cartoon } from "./tools/cartoon.js"; // new
 export { ytResumen } from "./tools/youtubesummary.js";
